@@ -1,0 +1,11 @@
+{
+  "name": "ScriptKit",
+  "description": "Create a command line tool with ScriptKit",
+  "url": "https://github.com/TofPlay/ScriptKit.xtemplate.git",
+  "original": "Template",
+  "protect": [
+    "Tof Templates"
+  ],
+  "author": "Christophe Braud",
+  "version": "0.0.1"
+}
