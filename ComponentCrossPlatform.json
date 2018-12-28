@@ -2,10 +2,7 @@
   "name": "ComponentCrossPlatform",
   "description": "Swift Cross-Platform framework from the same sources for macOS, iOS, watchOS and tvOS platforms and use them in a project via Carthage. It will be also ready for SwiftPM.",
   "url": "https://github.com/TofPlay/ComponentCrossPlatform.xtemplate.git",
-  "original": "Template",
-  "protect": [
-    "Tof Templates"
-  ],
-  "author": "Christophe Braud",
-  "version": "0.0.1"
+  "branch": "1.0.4",
+  "patch": "XcodeTool.json",
+  "author": "Christophe Braud"
 }
