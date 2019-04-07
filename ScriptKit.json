@@ -3,6 +3,6 @@
   "description": "Create a command line tool with ScriptKit",
   "url": "https://github.com/TofPlay/ScriptKit.xtemplate.git",
   "patch": "XcodeTool.json",
-  "branch": "1.0.4",
+  "branch": "1.0.5",
   "author": "Christophe Braud"
 }
